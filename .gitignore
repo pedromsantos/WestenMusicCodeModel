@@ -1,0 +1,5 @@
+*.userprefs
+WestenMusicCodeModel/bin
+WestenMusicCodeModel/obj
+WestenMusicCodeModelTests/bin
+WestenMusicCodeModelTests/obj
